@@ -1,5 +1,11 @@
 # Invite Full Stack
 
+# get start
+
+yarn install in root (outside of client and server)
+yarn install in client
+yarn install in server
+
 ## Description
 The goal is to create an evite type of program which will display 1 user at a time and then you can select yes or no on whether to invite them.  It will use the random person generator
 [api](https://randomuser.me/) to display each person to show.
